@@ -1,0 +1,1 @@
+// .var se guarda en ambito global
